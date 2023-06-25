@@ -1,0 +1,10 @@
+.container {
+  margin: 50px 50px;
+  padding: 100px 100px;
+  width: 80%;
+  height: 80%;
+  background-color: white;
+  border-radius: 30px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
